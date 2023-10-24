@@ -9,9 +9,3 @@ public class ADashboardPage {
     }
 
 }
-
-    git add .
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/sadikgoden/smartcart.git
-        git push -u origin main
